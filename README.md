@@ -8,6 +8,8 @@ This project is subdivided into two principal scripts:
 
 ## 1. Data Extractor
 
+To use this part of the script right read below how it works.
+
 ### 0. Presets
 
 After running this script you shoud specify the chemical elements combination list that will be combined with yours chemical element choice. After that in the Menu you will be asked to choice the chemical element that will be combinated with the list, but I will explain better in the next item, lets go!
@@ -27,11 +29,15 @@ With the exception of the AI_ML predicts of K_VRH and G_VRH and the Decomposes-T
 
 ### 1.2 Web Scraping
 
+This is the second part of the extraction and it is optional, it is slow and can last 25 minutes if the dataset be too big.
+
 Scraping path to obtain the AI-ML predicts of K-VRH and G-VRH and also the Decomposes-To are better... For the Decomposes-To data it provides a better visualziation of the chemical products after the chemical decomposition. The AI-ML predicts of K-VRH and G-VRH only could be obtained using the Web Interface plataform of the Materials Project plataform/site. 
 
 Observation: Looking to obtain that information, it was necessary to login in the website to be allowed to see the physical computer calculation of that two elastic parameters or properties of the studied compound.
 
 ## 2. Data Visulizator
+
+This second script will allow you to use yours datasets extracted from Materials Project to generate the visualization of that Data.
 
 In the elaboration of this second script, I am very grateful to my teacher, that gave me an initial template that printed the graphs of all the 30 compounds.
 "An images can explain better than a thousand words" so lets look an example:
