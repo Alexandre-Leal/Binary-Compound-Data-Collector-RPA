@@ -8,7 +8,7 @@ This project is subdivided into two principal scripts:
 
 ## 1. Data Extractor
 
-###1.1 Initial Menu and API Extraction
+### 1.1 Initial Menu and API Extraction
 
 #### Presets
 
