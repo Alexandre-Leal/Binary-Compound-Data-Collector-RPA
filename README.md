@@ -8,11 +8,11 @@ This project is subdivided into two principal scripts:
 
 ## 1. Data Extractor
 
-### 1.1 Initial Menu and API Extraction
-
-#### Presets
+### 0. Presets
 
 After running this script you shoud specify the chemical elements combination list that will be combined with yours chemical element choice. After that in the Menu you will be asked to choice the chemical element that will be combinated with the list, but I will explain better in the next item, lets go!
+
+### 1.1 Initial Menu and API Extraction
 
 #### Menu
 At the beginning you must specify the chemical element that you want combine with the preset element list. Think for example in the case below, the choice element is aluminum (AL). Besides that the element list contain all the transition metals in the periodic table, excluding the most exotic ones (the last line, after Lanthanum).
