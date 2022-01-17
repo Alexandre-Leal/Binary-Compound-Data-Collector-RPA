@@ -2,6 +2,8 @@
 
 HEY! I REALLY RECOMEND THAT YOU READ THIS!
 
+I'M WORKING ON IT ;)
+
 Welcome to the Data Extractor and Data Visulization program, made with Python and data from Materials Project plataform. I beg you to read this brief introduction text to favour your complete understanding of this program operation to allow you making better use of it. My wish is that this repository helps students and teacher of all universities in the world to obtain many data of binary compounds and saving them locally in an Excel file.
 
 This project is subdivided into two principal scripts:
